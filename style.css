@@ -1,0 +1,20 @@
+
+body{
+    background-color:cornflowerblue;
+}
+h2{
+    color: rgb(0, 0, 0);
+    font-weight: 500;
+}
+h1{
+    background-color: blue;
+    color: antiquewhite;
+    width: 400px;
+    border-radius: 10px;
+}
+.test_image_and_result{
+    background-color: lightblue;
+    width: 98%;
+    border-radius: 10px;
+    margin-top: 50px;
+}
